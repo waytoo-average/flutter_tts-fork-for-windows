@@ -13,7 +13,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_tts:
+  flutter_tts_no_windows:
     path: ../
 
 dependency_overrides:

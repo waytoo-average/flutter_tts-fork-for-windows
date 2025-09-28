@@ -1,7 +1,7 @@
 name: flutter_tts_no_windows
-description: A flutter plugin for Text to Speech.  This plugin is supported on iOS, macOS, Android, Web, & Windows.
-version: 4.2.3
-homepage: https://github.com/dlutton/flutter_tts
+description: A fork of flutter_tts without Windows support (for projects using custom Windows TTS).
+version: 1.0.0
+homepage: https://github.com/waytoo-average/flutter_tts-fork-for-windows
 
 dependencies:
   flutter:
